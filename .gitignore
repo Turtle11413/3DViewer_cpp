@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Other files
+src/.qmake.stash
+src/compile_commands.json
